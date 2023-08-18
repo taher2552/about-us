@@ -192,7 +192,7 @@ font-weight: 500;
    .third-arrow{
       position: absolute;
       top:100%;
-      left:1%
+      left:5%
    
     }
 
@@ -288,7 +288,7 @@ font-weight: 500;
 
    .third-arrow{
       top:20%;
-      left:-5%;
+      left:-10%;
    }
 
    .third-arrow img{
@@ -359,7 +359,7 @@ font-weight: 500;
       height: 20rem;
    }
 }
-@media (max-width:880px){
+@media (max-width:885px){
    .third-arrow{
       top:100%;
       left:5%;
