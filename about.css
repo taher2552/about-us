@@ -103,7 +103,7 @@ font-weight: 500;
  }
 
  .about-view{
-    margin-top: 4rem;
+    margin-top: 5.5rem;
     position: relative;
  }
 
@@ -171,6 +171,8 @@ font-weight: 500;
 
 
 
+
+
  
 
 
@@ -235,9 +237,7 @@ font-weight: 500;
    width:20rem;
 }
 
-.about-view{
-   margin-top: 5rem;
-}
+
 
 
 .third-arrow img{
